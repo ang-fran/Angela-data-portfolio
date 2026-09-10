@@ -1,4 +1,4 @@
-# Angela-Frances Ibhade — Data Analytics Portfolio
+# Angela-Frances Ibhade — Data Portfolio
 
 **MSc Statistics · Brock University (2026)**  
 Specializing in time series econometrics, regime-switching models, and applied data analytics.  
